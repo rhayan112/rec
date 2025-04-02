@@ -1,0 +1,50 @@
+meta: 1.200
+
+*no melhor dos casos: deposita 10 e saca 30: 900 de faturamento sendo 600 de lucro bruto* 
+*faz 30 de banca saca na hora*
+*bater as metas diarias, caso seja necessario recupera no outro dia*
+*sem allwin*
+
+
+
+
+60 bancas de 10
+{
+-10/04:10 a 20(duas bancas de 10, saque:30)  
+-11/04:10 a 20(duas bancas de 10, saque:30)  
+-12/04:10 a 20(duas bancas de 10, saque:30)  
+-13/04:10 a 20(duas bancas de 10, saque:30)  
+-14/04:10 a 20(duas bancas de 10, saque:30)  
+-15/04:10 a 20(duas bancas de 10, saque:30)  
+-16/04:10 a 20(duas bancas de 10, saque:30)  
+-17/04:10 a 20(duas bancas de 10, saque:30)  
+-18/04:10 a 20(duas bancas de 10, saque:30)  
+-19/04:10 a 20(duas bancas de 10, saque:30)  
+-20/04:10 a 20(duas bancas de 10, saque:30)  
+-21/04:10 a 20(duas bancas de 10, saque:30)  
+-22/04:10 a 20(duas bancas de 10, saque:30)  
+-23/04:10 a 20(duas bancas de 10, saque:30)  
+-24/04:10 a 20(duas bancas de 10, saque:30)  
+-25/04:10 a 20(duas bancas de 10, saque:30)  
+-26/04:10 a 20(duas bancas de 10, saque:30)  
+-27/04:10 a 20(duas bancas de 10, saque:30)  
+-28/04:10 a 20(duas bancas de 10, saque:30)  
+-29/04:10 a 20(duas bancas de 10, saque:30)  
+-30/04:10 a 20(duas bancas de 10, saque:30)  
+-01/05:10 a 20(duas bancas de 10, saque:30)  
+-02/05:10 a 20(duas bancas de 10, saque:30)  
+-03/05:10 a 20(duas bancas de 10, saque:30)  
+-04/05:10 a 20(duas bancas de 10, saque:30)  
+-05/05:10 a 20(duas bancas de 10, saque:30)  
+-06/05:10 a 20(duas bancas de 10, saque:30)  
+-07/05:10 a 20(duas bancas de 10, saque:30)  
+-08/05:10 a 20(duas bancas de 10, saque:30)  
+-09/05:10 a 20(duas bancas de 10, saque:30)  
+-10/05:10 a 20(duas bancas de 10, saque:30)  
+}
+
+*all win nas metas diarias da empresa: 120 de lucro caso acerte*
+
+
+
+total: 1.600 ou 1.800
